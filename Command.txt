@@ -1,0 +1,12 @@
+git add MyFile.txt
+git commit -m "[message]"
+git add Info*
+git config --globa user.name "Noah Potter_INFO"
+git add Command.txt
+
+Current Project status is in line with listed steps so far. MyFile.txt, Info
+and it's two files, and Command.txt have all been created and used as required. 
+For step 6 I opened the file manually and added the course name and code at the top. 
+During this task i learned that sometimes the best way to do things is the simplest,
+rather than trying to find a fancy workaround, sometimes opening the file and adding
+the content to the beginning manually is the better option :)
